@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.257
+This is BizBuddy, shown through the real Next.js application with synthetic shop data.
+
+00:00:05.257 --> 00:00:10.024
+Its interface connects daily business reporting, point of sale, and inventory.
+
+00:00:10.024 --> 00:00:14.181
+A sale is more than a total: stock and reports must stay consistent.
+
+00:00:14.181 --> 00:00:20.599
+The source uses integer money calculations, Supabase authentication, and tenant-scoped PostgreSQL access.
+
+00:00:20.599 --> 00:00:24.266
+One hundred and thirty-three selected checks passed locally.
+
+00:00:24.266 --> 00:00:32.090
+This capture uses an isolated test database, not a real business account, and does not establish a hosted production deployment.
