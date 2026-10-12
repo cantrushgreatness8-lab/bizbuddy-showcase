@@ -55,8 +55,13 @@ Owner-approved publication; richer sanitized evidence after privacy/licensing re
 
 ## License and provenance
 
-New sample code and diagrams were created for this showcase. No original product source, third-party media, secrets or Git history copied. All rights reserved pending owner selection of a public license. Public visibility does not itself grant redistribution rights.
+New sample code and diagrams were created for this showcase. No original product source, secrets or Git history was copied. Actual interface captures and the approved narrated film are included as documented below. All rights reserved pending owner selection of a public license. Public visibility does not itself grant redistribution rights.
 
 ## Actual application interface
 Reviewed desktop and responsive phone captures from an isolated original runtime, using synthetic data, are in [docs/actual-ui](docs/actual-ui/). [Watch the narrated walkthrough](docs/actual-ui/walkthrough.mp4). The interactive sample in this repository remains an independent labelled demonstration. Video: local HyperFrames composition with the two explicitly approved ElevenLabs River narrations; no native mobile app or live provider claim.
+
+
+## Published case study
+[Explore the live bizbuddy case study](https://developer-portfolio-snowy-rho.vercel.app/bizbuddy/) for the actual interface walkthrough, architecture evidence and labelled interactive sample. [Portfolio](https://developer-portfolio-snowy-rho.vercel.app/) · [GitHub profile](https://github.com/cantrushgreatness8-lab).
+
 
